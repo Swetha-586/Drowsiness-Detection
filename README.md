@@ -17,18 +17,18 @@ Install the required libraries using pip:
 
 ```bash
 pip install opencv-python pyttsx3
+```
 ▶️ How to Run
 Clone the repository or download the Python file.
 
 Open terminal and run:
 
-bash
-Copy
-Edit
+```bash
 python project.py
+```
 Press s to stop the webcam window.
 
-💡 Where It's Useful
+💡 Where it is  Useful
 This system is ideal for:
 
 Drivers during night shifts or long trips
